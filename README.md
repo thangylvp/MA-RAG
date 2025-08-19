@@ -35,7 +35,6 @@ If you use this code, please cite the paper:
 ```
 @article{ma-rag2025,
   title={MA-RAG: Multi-Agent Retrieval-Augmented Generation via Collaborative Chain-of-Thought Reasoning},
-  author={Your Name},
   journal={arXiv preprint arXiv:2505.20096},
   year={2025}
 }
