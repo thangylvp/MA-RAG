@@ -1,0 +1,13 @@
+.venv/
+.vscode/
+.env
+.DS_Store
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+adhoc.py
+.envrc
+.python-version
