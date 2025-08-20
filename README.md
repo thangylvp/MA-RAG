@@ -55,9 +55,10 @@ python main.py --model gpt4omini --dataset hotpotqa --exp plan_rag_extract --gpu
 If you use this code, please cite the paper:
 
 ```bibtex
-@article{ma-rag2025,
-  title={MA-RAG: Multi-Agent Retrieval-Augmented Generation via Collaborative Chain-of-Thought Reasoning},
-  journal={arXiv preprint arXiv:2505.20096},
-  year={2025}
+@article{marag2025,
+      title={MA-RAG: Multi-Agent Retrieval-Augmented Generation via Collaborative Chain-of-Thought Reasoning}, 
+      author={Thang Nguyen, Peter Chin, Yu-Wing Tai},
+      year={2025},
+      journal={arXiv preprint arXiv:2505.20096},
 }
 ```
